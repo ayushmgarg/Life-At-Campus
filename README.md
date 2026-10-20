@@ -1,10 +1,9 @@
 # Campus Life Simulator
 
 Play one week of college life. Sleep, meals, gym, lectures, screens, friends, the campus dogs — the
-**College Lifestyle Score** updates live on the same model the project dashboard uses, built from
-137 real survey responses.
+**College Lifestyle Score** updates live on the same model the project dashboard uses.
 
-![score](https://img.shields.io/badge/pillars-6%20%2B%20social-23b8a7) ![data](https://img.shields.io/badge/responses-137-6284f4)
+![score](https://img.shields.io/badge/pillars-6%20%2B%20social-23b8a7) 
 
 ## Play
 
